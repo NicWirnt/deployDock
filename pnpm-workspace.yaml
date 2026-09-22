@@ -1,0 +1,6 @@
+storeDir: D:/Nico/DeployDock-Work/pnpm-store
+cacheDir: D:/Nico/DeployDock-Work/pnpm-cache
+stateDir: D:/Nico/DeployDock-Work/pnpm-state
+saveExact: true
+allowBuilds:
+  unrs-resolver: false
